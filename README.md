@@ -50,7 +50,3 @@ npm start
 👩‍💻 Author
 
 Developed by [Mahreen Choudhry]
-
-👩‍💻 Author
-
-Developed by [Your Name]
